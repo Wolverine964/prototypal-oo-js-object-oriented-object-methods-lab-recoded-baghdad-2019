@@ -4,5 +4,6 @@ function BoardMember(name,homeState,training){
   this.training=training;
 }
 veto(){
-  return `No, I must disagree`
-}
+return `No, I must disagree`;}
+approve(){
+return `You can do that!`;}
